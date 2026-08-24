@@ -7,8 +7,8 @@ layout: homepage
 Hi, I'm Sarah. I have been leading or supporting highly technical research
 teams for seven years. I lead the research org at [Flashbots](https://www.flashbots.net/), where I've
 been since 2022 — I was hired to do research ops and still do the
-operational work alongside managing the team. I take pride in making the machinery of a research org work well and in
-building the kind of environment where Flashbots researchers feel safe pushing the frontier. Flashbots is an R&D organization founded to
+operational work alongside managing the team. I take pride in making the machinery of the research org work well and in
+building the kind of environment where Flashbots researchers feel the psychological safety necessary to push the frontier. Flashbots is an R&D organization founded to
 illuminate, democratize, and distribute maximal extractable value (MEV) through
 open research and products. MEV is the value extractable by any agent when a privileged
 actor holds ordering rights over a system in which participants compete for a scarce opportunity. The Flashbots research team spans economics, mechanism design, distributed systems, cryptography, and open-source development to work on problems relevant to Ethereum. You can learn about our work in progress in the
